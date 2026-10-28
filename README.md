@@ -5,4 +5,4 @@
 | ردیف | نام دانشجو | فایل PDF |
 |:---:|:---:|:---:|
 | 1 | مهدیه حمیدی | [مشاهده PDF](PDF/Mahdieh-hamidi.pdf) |
-| 2 | علی اکبر سلطانی | [مشاهده PDF](PDF/Aliakbar-soltani.pdf) |
+| 2 | علی اکبر سلطانی | [مشاهده PDF](PDF/Aliakbar-Soltani.pdf) |

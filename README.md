@@ -25,5 +25,8 @@
 | 19 | مهلا جراحی | [مشاهده PDF](PDF/Mahla-Jarahi.pdf) | complete 🟢 |
 | 20 | یوسف دولت آبادی | [مشاهده PDF](PDF/Yousef-DowlatAbadi.pdf) | complete 🟢 |
 | 21 | حسین دانش | [مشاهده PDF](PDF/Hossein-Danesh.pdf) | complete 🟢 |
-| 22 | مبینا زهانی | [مشاهده PDF](PDF/Mobina-Zohani.pdf) | not complete 🔴 |
+| 22 | مبینا زهانی | [مشاهده PDF](PDF/Mobina-Zohani.pdf) | complete 🟢 |
 | 23 | سجاد اسماعیلی | [مشاهده PDF](PDF/Sajjad-Esmaeli.pdf) | complete 🟢 |
+| 24 | محمد رهبر | [مشاهده PDF](PDF/Mohammad-Rahbar.pdf) | complete 🟢 |
+| 25 | طلیعه طالبان | [مشاهده PDF](PDF/Talie-Taleban.pdf) | complete 🟢 |
+| 26 | مهرانه کلاته | [مشاهده PDF](PDF/Mehraneh-Kalateh.pdf) | complete 🟢 |

@@ -30,3 +30,5 @@
 | 24 | محمد رهبر | [مشاهده PDF](PDF/Mohammad-Rahbar.pdf) | complete 🟢 |
 | 25 | طلیعه طالبان | [مشاهده PDF](PDF/Talie-Taleban.pdf) | complete 🟢 |
 | 26 | مهرانه کلاته | [مشاهده PDF](PDF/Mehraneh-Kalateh.pdf) | complete 🟢 |
+| 27 | مجتبی روکی | [مشاهده PDF](PDF/Mojtaba-Rouki.pdf) | complete 🟢 |
+| 28 | امبر نیکومنش | [مشاهده PDF](PDF/Amir-Niko.pdf) | complete 🟢 |

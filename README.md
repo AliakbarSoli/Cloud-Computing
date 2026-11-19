@@ -32,3 +32,6 @@
 | 26 | مهرانه کلاته | [مشاهده PDF](PDF/Mehraneh-Kalateh.pdf) | complete 🟢 |
 | 27 | مجتبی روکی | [مشاهده PDF](PDF/Mojtaba-Rouki.pdf) | complete 🟢 |
 | 28 | امبر نیکومنش | [مشاهده PDF](PDF/Amir-Niko.pdf) | complete 🟢 |
+| 29 | میثم خادمیان | [مشاهده PDF](PDF/meysam_khademyan.pdf) | complete 🟢 |
+| 30 | طاها طبسی | [مشاهده PDF](PDF/Mini-Hermes-Smtt.pdf) | complete 🟢 |
+| 31 | مهدی اکرامی | [مشاهده PDF](PDF/Hermes_Mini_v1.4.1_Project_Document_FA.pdf) | complete 🟢 |
